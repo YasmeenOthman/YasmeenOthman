@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋 I'm Yasmeen, a Full-Stack Web Developer from Palestine ...
 
-<!--
-**YasmeenOthman/YasmeenOthman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 In my spare time, I enjoy building side projects, exploring new technologies, and away from coding I enjoyed taking some photos 📸
 
-Here are some ideas to get you started:
+🌟 Some of my skills include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+~ HTML/CSS/JS
+~ SASS / Bootstrap 
+~ React
+~ Node.js/Express
+~ MongoDB/Mongoose
+~ Git/GitHub
+
+🚀 Here are some of my achievements:
+
+- For the last two years I've ben working heavily in teaching people coding )in bootcamps.
+- Mentored several aspiring developers and helped them land their first jobs in tech.
+- Developed new content and challenging coding exercises to aid people in comprehending different programming concepts.
+
+📫 Let's connect! You can reach me via:[linkedin](https://www.linkedin.com/in/yasmeen-othman-98411b19a/)
+
+Looking forward to collaborating with you!
