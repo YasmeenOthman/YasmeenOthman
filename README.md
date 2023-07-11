@@ -5,7 +5,7 @@
   <img src = https://media.giphy.com/media/fYBEN9TRdEnW0HDMJS/giphy.gif width="200"/>
   
 <div id="badges" >
-    <a href="[your-linkedin-URL](https://www.linkedin.com/in/yasmeen-othman-98411b19a/)">
+    <a href="https://www.linkedin.com/in/yasmeen-othman-98411b19a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
   </a>
@@ -33,7 +33,8 @@
 - 💡 Mentored several aspiring developers and helped them land their first jobs in tech.
 -  :seedling: Exploring Technical Content Writing.
 - :zap: In my spare time, I enjoy building side projects, exploring new technologies, and away from coding I enjoyed taking some photos :camera_flash:
-- 📫 Let's connect! You can reach me via:  [![Linkedin Badge](https://img.shields.io/badge/-YasmeenOthman-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/yasmeen-othman-98411b19a/))  
+- 📫 Let's connect! You can reach me via:[![Linkedin Badge](https://img.shields.io/badge/-YasmeenOthman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasmeen-othman-98411b19a/)
+
 
 ---
 
