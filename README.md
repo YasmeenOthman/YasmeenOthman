@@ -25,20 +25,20 @@
 </div>
 
 
- ### :woman_technologist: About Me :
+ ### 👩‍💻 About Me :
   I'm Yasmeen, a Full-Stack Web Developer from Palestine 🇵🇸
 
-- :telescope: I am working as the Head of Education and a fullstack developer instructor at Social Hackers Academy :woman_technologist:
+- 🔭 I am working as the Head of Education and a fullstack developer instructor at Social Hackers Academy :woman_technologist:
 - 👩‍🏫 Teaching coding
 - 💡 Mentored several aspiring developers and helped them land their first jobs in tech.
--  :seedling: Exploring Technical Content Writing.
-- :zap: In my spare time, I enjoy building side projects, exploring new technologies, and away from coding I enjoyed taking some photos :camera_flash:
+- 🌱 Exploring Technical Content Writing.
+- ⚡ In my spare time, I enjoy building side projects, exploring new technologies, and away from coding I enjoyed taking some photos :camera_flash:
 - 📫 Let's connect! You can reach me via:[![Linkedin Badge](https://img.shields.io/badge/-YasmeenOthman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasmeen-othman-98411b19a/)
 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 
 <div>
  
@@ -61,13 +61,13 @@
 </div>
 
 ---
-### :fire: My Stats :
+### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YasmeenOthman&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmeenOthman&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### :writing_hand: Blog Posts :
+### ✍️ Blog Posts :
 
 - [Problem Solving Technique in Coding](https://socialhackersacademy.org/blog/web-development/problem-solving-technique-in-coding/)
