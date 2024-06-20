@@ -13,15 +13,17 @@
 </div>
  <img src="https://komarev.com/ghpvc/?username=YasmeenOthman&style=flat-square&color=blue" alt="views"/>
  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ Coding Coach - Fullstack developer  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+   <h5> I am here to guide you through every step of the way. With a wealth of knowledge and experience, I am  dedicated to helping you become a coding master.</h5>
+ 
 </h1>
+
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="600" height="400"/>
 </div> -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="300"/>
-</div>
+</div> -->
 </div>
 
 
@@ -64,9 +66,11 @@
 </div>
 
 ---
-### 🔥 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YasmeenOthman&theme=dark&background=000000)](https://git.io/streak-stats)
 
+### 🔥 My Stats :
+<!---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YasmeenOthman&theme=dark&background=000000)](https://git.io/streak-stats)
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmeenOthman&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
