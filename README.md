@@ -79,3 +79,4 @@
 
 - [Problem Solving Technique in Coding](https://socialhackersacademy.org/blog/web-development/problem-solving-technique-in-coding/)
 - [Step-by-Step Guide: Creating a Database on MongoDB Atlas](https://medium.com/@yasmeen.othman20/step-by-step-guide-creating-a-database-on-mongodb-atlas-fb1ead561c69)
+- [connecting Mongodb Atlas to express server](https://medium.com/@yasmeen.othman20/connecting-your-mongodb-to-express-server-47d52fb2105c)
