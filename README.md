@@ -57,6 +57,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
   <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" title="insomnia" alt="insomnia" width="40" height="40"/>&nbsp;
+  <img src="https://howtodoinjava.com/wp-content/uploads/2016/07/Jasmine-Logo.png" title="insomnia" alt="insomnia" width="40" height="40"/>&nbsp;
 
 </div>
 
