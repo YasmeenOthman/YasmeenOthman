@@ -28,14 +28,15 @@
 
 
  ### 👩‍💻 About Me :
-  I'm Yasmeen, a Full-Stack Web Developer from Palestine 🇵🇸
+Hi, I'm **Yasmeen**, a **Full-Stack Developer** and **Coding Coach** from 🇵🇸 Palestine.
 
-- 🔭 I am working as the Head of Education and a fullstack developer instructor at Social Hackers Academy :woman_technologist:
-- 👩‍🏫 Teaching coding
-- 💡 Mentored several aspiring developers and helped them land their first jobs in tech.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my spare time, I enjoy building side projects, exploring new technologies, and away from coding I enjoyed taking some photos :camera_flash:
-- 📫 Let's connect! You can reach me via:[![Linkedin Badge](https://img.shields.io/badge/-YasmeenOthman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasmeen-othman-98411b19a/)
+-  Former **Head of Education** at Social Hackers Academy (3+ years)
+-  I’ve coached and mentored aspiring developers — many of whom landed their first roles in tech!
+-  I specialize in **JavaScript**, **React**, **Node.js**, and **MongoDB**
+-  I enjoy technical writing, speaking, and creating content that simplifies complex concepts
+-  On the lookout for new **collaborations**, **teaching roles**, or **dev positions**
+-  In my free time, I enjoy photography and building cool side projects
+- Let’s connect via linkedin [![Linkedin Badge](https://img.shields.io/badge/-YasmeenOthman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasmeen-othman-98411b19a/)
 
 
 ---
@@ -80,3 +81,16 @@
 - [Problem Solving Technique in Coding](https://socialhackersacademy.org/blog/web-development/problem-solving-technique-in-coding/)
 - [Step-by-Step Guide: Creating a Database on MongoDB Atlas](https://medium.com/@yasmeen.othman20/step-by-step-guide-creating-a-database-on-mongodb-atlas-fb1ead561c69)
 - [connecting Mongodb Atlas to express server](https://medium.com/@yasmeen.othman20/connecting-your-mongodb-to-express-server-47d52fb2105c)
+
+  
+### 🚀 Currently Open to:
+
+- 🌱 **Developer roles** (Fullstack or Frontend)
+- 🎯 **Mentoring** and **coaching** opportunities
+- 🛠️ **Freelance** or collaborative dev projects
+- Content creation in tech
+
+---
+
+> _"Teaching others is the best way to master something yourself."_  
+> Let’s build, teach, and grow together.
