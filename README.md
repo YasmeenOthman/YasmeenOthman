@@ -85,10 +85,9 @@ Hi, I'm **Yasmeen**, a **Full-Stack Developer** and **Coding Coach** from 🇵�
   
 ### 🚀 Currently Open to:
 
-- 🌱 **Developer roles** (Fullstack or Frontend)
 - 🎯 **Mentoring** and **coaching** opportunities
-- 🛠️ **Freelance** or collaborative dev projects
-- Content creation in tech
+- 🌱 **Developer roles** (Fullstack or Frontend)
+-   Content creation in tech
 
 ---
 
